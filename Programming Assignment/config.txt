@@ -1,0 +1,5 @@
+NeoVerse Configuration
+System=AI City Survival Engine
+Version=1.0
+Search=Linear find_if
+DefaultClearance=Medium
